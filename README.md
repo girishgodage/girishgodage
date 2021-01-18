@@ -1,6 +1,6 @@
 ## Hello World !!! I'm [Girish Godage](https://girishgodage.in) 👋 <img align="right" src="https://girishgodage.in/img/logo.jpg" alt="girishgodage" width="200" height="150" />
 
-### ITConsultant | Author | Speaker | Passionate Programmer
+### IT Consultant | Author | Speaker | Passionate Programmer
 
 - 🔭 I’m currently working on Angular, Reactjs, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, Angular
