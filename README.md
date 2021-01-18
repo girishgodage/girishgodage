@@ -1,4 +1,4 @@
-## Hello World !!! I'm [Girish Godage](https://girishgodage.in) 👋 <img align="right" src="https://girishgodage.in/img/logo.jpg" alt="girishgodage" width="100" height="100" />
+## Hello World !!! I'm [Girish Godage](https://girishgodage.in) 👋 <img align="right" src="https://girishgodage.in/img/logo.jpg" alt="girishgodage" width="200" height="150" />
 
 ### ITConsultant | Author | Speaker | Passionate Programmer
 
