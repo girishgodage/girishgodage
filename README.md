@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Angular, Reactjs, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, Angular
 - 💬 Ask me about Angular, Reactjs, Blazor, ASP.NET Core, C#, Firebase, Blogging
-- 📫 How to reach me: [@girishgodage][twitter]
+- 📫 How to reach me: [@girishgodage](https://twitter.com/GGodage)
 
 ### 🤝 Connect with me:
 
