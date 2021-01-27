@@ -1,5 +1,7 @@
 ## Hello World !!! I'm [Girish Godage](https://girishgodage.in) 👋 <img align="right" src="https://komarev.com/ghpvc/?username=girishgodage" alt="girishgodage" />
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ### IT Consultant | Author | Speaker | Passionate Programmer
 
